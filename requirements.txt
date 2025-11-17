@@ -3,3 +3,13 @@ numpy==1.26.4
 psycopg[binary]==3.2.1
 python-dotenv==1.0.1
 tqdm==4.66.4
+
+# SQL + ORM
+SQLAlchemy==2.0.30
+
+# Modeling
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Saving models
+joblib==1.4.0
